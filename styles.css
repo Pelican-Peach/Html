@@ -1,6 +1,8 @@
 body{
     background: grey;
     margin: 0;
+    font-family: 'Caveat', cursive;
+    font-family: 'Zeyada', cursive;
 }
 div{
     box-sizing: border-box;
@@ -11,6 +13,7 @@ header{
 }
 header h1{
     margin: 0;
+    
 }
 div.container .post .post-header div:first-child{
     display: inline-block;
